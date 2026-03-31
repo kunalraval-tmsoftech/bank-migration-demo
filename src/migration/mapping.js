@@ -10,4 +10,4 @@ function mapToBankMaster(row) {
 }
 
 module.exports = { mapToBankMaster };
-
+    
